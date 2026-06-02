@@ -62,13 +62,8 @@ int main()
 }
 ```
 # Output:
-```
-Input:
-1
+<img width="417" height="205" alt="image" src="https://github.com/user-attachments/assets/f878e328-3c5f-4b83-9658-18869627302b" />
 
-Output:
-101.25 201.25 301.25 401.25 501.25
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -188,17 +183,8 @@ int main()
 }
 ```
 # Output:
-```
-Enter two integers: 20 5
+<img width="414" height="418" alt="image" src="https://github.com/user-attachments/assets/1918fa76-5178-4deb-afa1-ef35e00bdf38" />
 
-Menu
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
-Enter your choice: 3
-Result = 100
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -301,33 +287,8 @@ int main()
 }
 ```
 # Output:
-```
-Enter number of employees: 3
+<img width="391" height="772" alt="image" src="https://github.com/user-attachments/assets/dec59909-603b-45bf-a9b5-ce2325d533a4" />
 
-Enter details of Employee 1
-Employee Number: 101
-Employee Name: Ravi
-Salary: 25000
-
-Enter details of Employee 2
-Employee Number: 102
-Employee Name: Priya
-Salary: 40000
-
-Enter details of Employee 3
-Employee Number: 103
-Employee Name: Arun
-Salary: 40000
-
-Employee(s) with Highest Salary:
-Employee Number: 102
-Employee Name: Priya
-Salary: 40000.00
-
-Employee Number: 103
-Employee Name: Arun
-Salary: 40000.00
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -403,11 +364,8 @@ int main()
 }
 ```
 # Output:
-```
-Enter birth year: 2005
-Enter current year: 2026
-Present Age = 21
-```
+<img width="376" height="246" alt="image" src="https://github.com/user-attachments/assets/2b9e283f-8eb5-46cc-8ac3-eb111c1198c6" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -469,11 +427,8 @@ int main()
 }
 ```
 # Output:
-```
-Enter an integer value: 65
-Integer value = 65
-Character value = A
-```
+<img width="393" height="236" alt="image" src="https://github.com/user-attachments/assets/bed57cad-0b32-4f5f-94e6-c235b4e42bec" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
